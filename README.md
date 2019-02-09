@@ -1,1 +1,1 @@
-# git-test
+Currently Bootstrap Projects are stored.
